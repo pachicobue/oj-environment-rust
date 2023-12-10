@@ -1,0 +1,3 @@
+[submodule "external/algolib-rust"]
+	path = external/algolib-rust
+	url = git@github.com:pachicobue/algolib-rust.git
